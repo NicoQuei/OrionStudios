@@ -130,6 +130,9 @@ body {
     min-height: 3rem;
     background-color: #1F2937;
     color: white;
+    border-radius: 8px;
+    border: red;
+    color: red;
 }
 
 .contato textarea {
